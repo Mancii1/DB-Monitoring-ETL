@@ -1,0 +1,171 @@
+server_name,severity,message,created_at
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-01 06:26:00
+DB-STAGE-01,Medium,High CPU usage detected,2024-06-01 07:33:00
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-01 09:36:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-01 10:34:00
+DB-PROD-02,Medium,Memory usage critical,2024-06-01 11:50:00
+DB-PROD-02,High,Query timeout exceeded,2024-06-01 17:37:00
+DB-PROD-01,Medium,Query timeout exceeded,2024-06-01 18:05:00
+DB-QA-01,Medium,Connection pool exhausted,2024-06-01 15:21:00
+DB-QA-01,Medium,High CPU usage detected,2024-06-01 18:29:00
+DB-PROD-02,Medium,High CPU usage detected,2024-06-01 19:09:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-01 22:25:00
+DB-STAGE-01,Medium,Memory usage critical,2024-06-02 03:03:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-02 01:49:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-02 02:02:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-02 05:44:00
+DB-QA-01,Medium,Memory usage critical,2024-06-02 06:52:00
+DB-STAGE-01,Medium,Memory usage critical,2024-06-02 09:18:00
+DB-STAGE-01,High,Connection pool exhausted,2024-06-02 15:43:00
+DB-PROD-02,Medium,High CPU usage detected,2024-06-02 15:00:00
+DB-STAGE-01,Medium,Memory usage critical,2024-06-02 16:54:00
+DB-PROD-02,High,Connection pool exhausted,2024-06-02 21:44:00
+DB-STAGE-01,Medium,Disk space low,2024-06-03 02:55:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-03 04:35:00
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-03 07:07:00
+DB-PROD-01,Medium,Query timeout exceeded,2024-06-03 09:49:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-03 07:33:00
+DB-QA-01,Medium,Disk space low,2024-06-03 09:46:00
+DB-PROD-02,High,Disk space low,2024-06-03 10:23:00
+DB-PROD-01,Medium,High CPU usage detected,2024-06-03 11:26:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-03 09:33:00
+DB-PROD-01,Medium,Connection pool exhausted,2024-06-03 11:54:00
+DB-STAGE-01,High,Connection pool exhausted,2024-06-03 10:26:00
+DB-QA-01,Medium,Memory usage critical,2024-06-03 14:47:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-03 12:15:00
+DB-PROD-02,High,High CPU usage detected,2024-06-03 15:01:00
+DB-PROD-01,High,Memory usage critical,2024-06-03 13:01:00
+DB-QA-01,Medium,Disk space low,2024-06-03 17:49:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-03 19:32:00
+DB-PROD-02,Medium,Disk space low,2024-06-04 02:18:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-04 00:36:00
+DB-QA-01,High,High CPU usage detected,2024-06-04 03:03:00
+DB-PROD-01,High,Disk space low,2024-06-04 03:41:00
+DB-PROD-01,High,Memory usage critical,2024-06-04 05:27:00
+DB-PROD-01,Medium,Connection pool exhausted,2024-06-04 07:27:00
+DB-QA-01,High,High CPU usage detected,2024-06-04 05:28:00
+DB-STAGE-01,Medium,Disk space low,2024-06-04 07:16:00
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-04 07:44:00
+DB-PROD-01,Medium,Query timeout exceeded,2024-06-04 08:48:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-04 08:04:00
+DB-PROD-02,Medium,Memory usage critical,2024-06-04 19:22:00
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-04 16:59:00
+DB-STAGE-01,Medium,High CPU usage detected,2024-06-05 00:07:00
+DB-QA-01,Medium,Disk space low,2024-06-04 23:04:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-05 00:50:00
+DB-PROD-01,Medium,High CPU usage detected,2024-06-05 07:43:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-05 16:42:00
+DB-QA-01,Medium,Memory usage critical,2024-06-05 14:49:00
+DB-PROD-02,Medium,High CPU usage detected,2024-06-05 17:53:00
+DB-STAGE-01,High,Query timeout exceeded,2024-06-05 19:04:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-05 18:38:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-05 23:29:00
+DB-STAGE-01,Medium,Disk space low,2024-06-05 23:22:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-05 22:58:00
+DB-PROD-01,Medium,High CPU usage detected,2024-06-06 08:50:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-06 08:14:00
+DB-QA-01,High,Connection pool exhausted,2024-06-06 10:24:00
+DB-PROD-01,Medium,Disk space low,2024-06-06 10:58:00
+DB-QA-01,Medium,Disk space low,2024-06-06 14:27:00
+DB-QA-01,High,Memory usage critical,2024-06-06 14:50:00
+DB-PROD-01,Medium,Disk space low,2024-06-06 16:40:00
+DB-QA-01,Medium,Disk space low,2024-06-06 21:28:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-06 21:19:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-06 20:33:00
+DB-PROD-01,Medium,Disk space low,2024-06-07 04:33:00
+DB-PROD-02,High,Query timeout exceeded,2024-06-07 10:09:00
+DB-PROD-02,High,High CPU usage detected,2024-06-07 08:44:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-07 14:34:00
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-07 16:16:00
+DB-STAGE-01,High,Query timeout exceeded,2024-06-07 13:58:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-07 13:00:00
+DB-STAGE-01,Medium,High CPU usage detected,2024-06-07 13:45:00
+DB-PROD-01,Medium,Disk space low,2024-06-07 17:30:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-07 19:40:00
+DB-PROD-02,Medium,Memory usage critical,2024-06-07 21:18:00
+DB-STAGE-01,Medium,Memory usage critical,2024-06-08 00:38:00
+DB-PROD-01,Medium,Connection pool exhausted,2024-06-08 00:50:00
+DB-PROD-02,Medium,Memory usage critical,2024-06-08 03:38:00
+DB-PROD-02,Medium,Disk space low,2024-06-08 06:08:00
+DB-PROD-01,Medium,Disk space low,2024-06-08 07:13:00
+DB-PROD-02,Medium,Disk space low,2024-06-08 06:31:00
+DB-QA-01,Medium,Connection pool exhausted,2024-06-08 10:06:00
+DB-STAGE-01,Medium,High CPU usage detected,2024-06-08 09:18:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-08 16:22:00
+DB-QA-01,Medium,High CPU usage detected,2024-06-08 15:07:00
+DB-PROD-01,Medium,High CPU usage detected,2024-06-08 13:37:00
+DB-PROD-01,High,Query timeout exceeded,2024-06-08 16:58:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-08 17:10:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-08 20:57:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-09 01:24:00
+DB-QA-01,High,Query timeout exceeded,2024-06-09 00:27:00
+DB-STAGE-01,Medium,Disk space low,2024-06-09 02:19:00
+DB-QA-01,Medium,Connection pool exhausted,2024-06-09 05:33:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-09 04:25:00
+DB-QA-01,Medium,High CPU usage detected,2024-06-09 07:26:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-09 17:14:00
+DB-STAGE-01,High,Connection pool exhausted,2024-06-09 19:16:00
+DB-STAGE-01,Medium,Disk space low,2024-06-09 19:40:00
+DB-PROD-02,Medium,High CPU usage detected,2024-06-09 21:04:00
+DB-STAGE-01,Medium,Disk space low,2024-06-10 02:10:00
+DB-PROD-01,Medium,Disk space low,2024-06-10 02:38:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-10 06:53:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-10 05:11:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-10 08:11:00
+DB-QA-01,Medium,High CPU usage detected,2024-06-10 11:04:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-10 11:29:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-10 15:48:00
+DB-PROD-02,Medium,High CPU usage detected,2024-06-10 17:24:00
+DB-PROD-01,Medium,Connection pool exhausted,2024-06-10 16:02:00
+DB-PROD-02,Medium,Memory usage critical,2024-06-10 19:39:00
+DB-PROD-01,High,Query timeout exceeded,2024-06-10 22:52:00
+DB-QA-01,High,Query timeout exceeded,2024-06-11 00:57:00
+DB-PROD-02,Medium,Disk space low,2024-06-11 02:01:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-11 02:43:00
+DB-PROD-01,Medium,Connection pool exhausted,2024-06-11 04:56:00
+DB-PROD-02,Medium,Disk space low,2024-06-11 06:56:00
+DB-PROD-01,High,Disk space low,2024-06-11 07:05:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-11 06:06:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-11 06:04:00
+DB-STAGE-01,High,Query timeout exceeded,2024-06-11 11:44:00
+DB-PROD-02,Medium,Disk space low,2024-06-11 08:36:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-11 09:22:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-11 16:31:00
+DB-PROD-01,Medium,Connection pool exhausted,2024-06-11 17:25:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-11 21:10:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-11 23:16:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-12 00:09:00
+DB-QA-01,Medium,Memory usage critical,2024-06-12 06:11:00
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-12 16:09:00
+DB-STAGE-01,Medium,High CPU usage detected,2024-06-12 20:47:00
+DB-QA-01,High,Query timeout exceeded,2024-06-12 20:47:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-13 00:05:00
+DB-QA-01,Medium,High CPU usage detected,2024-06-13 00:24:00
+DB-STAGE-01,Medium,High CPU usage detected,2024-06-13 01:38:00
+DB-STAGE-01,Medium,Memory usage critical,2024-06-12 21:40:00
+DB-QA-01,High,Disk space low,2024-06-13 02:10:00
+DB-QA-01,High,High CPU usage detected,2024-06-13 05:52:00
+DB-PROD-02,Medium,Memory usage critical,2024-06-13 07:26:00
+DB-QA-01,Medium,Connection pool exhausted,2024-06-13 08:21:00
+DB-STAGE-01,High,High CPU usage detected,2024-06-13 06:00:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-13 12:35:00
+DB-STAGE-01,Medium,Memory usage critical,2024-06-13 12:04:00
+DB-PROD-02,Medium,High CPU usage detected,2024-06-13 11:57:00
+DB-PROD-02,Medium,High CPU usage detected,2024-06-13 12:34:00
+DB-QA-01,High,High CPU usage detected,2024-06-13 13:37:00
+DB-QA-01,High,Query timeout exceeded,2024-06-13 14:10:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-13 17:53:00
+DB-QA-01,Medium,Query timeout exceeded,2024-06-13 21:19:00
+DB-PROD-01,Medium,High CPU usage detected,2024-06-14 01:16:00
+DB-PROD-02,Medium,Memory usage critical,2024-06-13 23:12:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-14 05:24:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-14 06:24:00
+DB-QA-01,Medium,Disk space low,2024-06-14 07:36:00
+DB-STAGE-01,Medium,Query timeout exceeded,2024-06-14 04:41:00
+DB-PROD-01,High,Disk space low,2024-06-14 10:56:00
+DB-STAGE-01,Medium,Connection pool exhausted,2024-06-14 12:56:00
+DB-PROD-02,Medium,Query timeout exceeded,2024-06-14 14:45:00
+DB-PROD-02,Medium,Connection pool exhausted,2024-06-14 16:48:00
+DB-PROD-01,Medium,Memory usage critical,2024-06-14 19:05:00
+DB-PROD-01,Medium,Query timeout exceeded,2024-06-15 04:07:00
+DB-PROD-01,Medium,High CPU usage detected,2024-06-15 01:36:00

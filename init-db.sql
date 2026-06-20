@@ -1,0 +1,1 @@
+CREATE DATABASE monitoring_db;
