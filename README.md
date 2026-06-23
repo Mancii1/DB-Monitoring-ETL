@@ -191,7 +191,7 @@ All visuals are driven by **DAX measures** created on the `etl_jobs` and `db_log
 
 ## 🏆 Why This Project Matters
 
-This pipeline directly demonstrates the responsibilities listed in the Rewardsco Junior Database Engineer job:
+This pipeline directly demonstrates the responsibilities of a Junior Database Engineer:
 
 - **PostgreSQL** – schema design, normalisation, foreign keys, querying.
 - **ETL Processes** – full Python pipeline with extract, transform, load.
